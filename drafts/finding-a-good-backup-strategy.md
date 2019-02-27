@@ -38,8 +38,33 @@
         - Cloud Storage
 
 - Choosing backup type
-    - Full clone
+    - Full clones
     - Incremental
     - Manual backup
 
 - Keeping a schedule
+
+---
+
+## Backup Software
+
+How to choose?
+
+### macOS/Windows
+- Arq Backup
+- CloudBerry
+- Acronis True Image
+- Duplicacy --> Tested, but crashed too often
+- Duplicati
+
+### macOS only
+
+- Arq Cloud Backup
+- Carbon Copy Cloner
+- SuperDuper!
+- Time Machine
+
+### Windows
+
+- Windows 10 native Backup solution
+-
